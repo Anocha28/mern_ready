@@ -1,0 +1,4 @@
+axios bootstrap bootstrap-icons react-bootstrap 
+react-redux react-router-bootstrap react-router-dom redux redux-devtools-extension redux-thunk
+moment react-moment 
+react-toastify
